@@ -1,0 +1,39 @@
+{
+    "pokemon": [
+        {
+            "name": "Pikachu",
+            "type": "Electric",
+            "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+            "evolution": [
+                {
+                    "name": "Pichu",
+                    "type": "Electric",
+                    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
+                },
+                {
+                    "name": "Raichu",
+                    "type": "Electric",
+                    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+                }
+            ]
+          
+        },
+        {
+            "name": "Charmander",
+            "type": "Fire",
+            "image": "charmander.png",
+            "evolutions": [
+              {
+                "name": "Charmeleon",
+                "type": "Fire",
+                "image": "charmeleon.png"
+              },
+              {
+                "name": "Charizard",
+                "type": "Fire/Flying",
+                "image": "charizard.png"
+              }
+            ]
+          }
+        ]
+      }
