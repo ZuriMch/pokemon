@@ -1,4 +1,5 @@
-import { LitElement, html, css } from "lit";
+import { html, css, LitElement } from 'https://cdn.skypack.dev/lit';
+
 
 class ModalDialog extends LitElement {
     static styles = css`
